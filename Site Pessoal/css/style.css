@@ -1,0 +1,103 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+}
+
+body{
+	background-color: #1c191d
+}
+
+.nome{
+width: 100%;
+height: 40px;
+background-color: #1c191d;
+font-family: Permanent Marker;
+text-align:center;
+font-size: 28;
+color: white;
+
+
+}
+
+.sobre{
+width:60%;
+color: white;
+background-color: #1c191d;
+text-align: center;
+border-radius:10px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 130px;
+font-family: Permanent Marker;
+}
+
+.esp{
+position: absolute;
+float: right;
+width: 30%;
+height: 140px;
+color: white;
+background-color: #1c191d;
+border-radius: 10px;
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+font-family: Permanent Marker;
+}
+
+.ho{
+float: right;
+width: 30%;
+color: white;
+background-color: #1c191d;
+border-radius: 10px;
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+font-family: Permanent Marker;
+}
+
+
+.face{
+margin-top:-300px;
+margin-left:  70px;
+
+}
+
+.insta{
+margin-top:-50px;
+margin-left:  70px;
+
+}
+.banner{
+width: 100%;
+height:700px;
+
+}
+
+
+.si{
+	
+	position: absolute;
+margin-left: 210px;
+margin-top: 70px;
+}
+
+.is{
+	position: absolute;
+margin-left: 1100px;
+margin-top: 130px;
+}
+
+.at{
+position: absolute;
+width: 40%;
+height: 50%;
+margin-left: 410px;
+}
